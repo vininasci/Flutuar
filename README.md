@@ -24,10 +24,13 @@ Projeto(desafio)exclusivo e gratuito, promovido pela Rocketseat para ensino de t
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
+<ul></ul>
+<li>HTML e CSS</li>
 
-- HTML e CSS
-- Git e Github
--Figma
+<li>Git e Github</li>
+
+ <li>Figma</li>
+</ul>
 
 ## 💻 Projeto
 
